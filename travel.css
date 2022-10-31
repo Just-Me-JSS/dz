@@ -1,0 +1,43 @@
+.section-body {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('images/travel.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    height: 10vh;
+}
+.information {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-block {
+    margin: auto;
+    width: 50%;
+    background-image: url('images/women.jpg');
+    height: 700px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    border-radius: 80px;
+}
+.text-block {
+    width: 50%;
+    padding-left: 30px;
+    font-size: 20px;
+}
+.nav .logo img {
+    max-width: 200px;
+
+}
+.tt {
+    width: 50%;
+}
+
